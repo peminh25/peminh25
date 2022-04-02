@@ -31,7 +31,7 @@
 + 1 tài khoản treo uptime bot 24/7.
 
 **1. Hướng dẫn tạo tài khoản replit:**
-- Mọi người hãy vào trang (replit.com) sau đó làm theo các bước như hình để tạo tài khoản.
+- Mọi người hãy vào trang **[replit.com](https://replit.com)** sau đó làm theo các bước dưới đây để tạo tài khoản.
 <p align="">
  
  <p align="right">
