@@ -1,21 +1,34 @@
-### Chào mọi người :3
+### THÔNG TIN CÁ NHÂN
 
-**Tên:** Nguyễn Quang Minh
+**Chào mọi người :3**
 
-**Sinh ngày:** 25 tháng 5 năm 2 lẻ 5 :))
+**- Tên:** Nguyễn Quang Minh
 
-**Giới tính:** Nam
+**- Sinh ngày:** 25 tháng 5 năm 2 lẻ 5 :))
 
-**Tình trạng MQH:** Ế sấp mặt :)))
+**- Giới tính:** Nam
 
-**Sở thích:** Chơi game, Chọc nhây người khác :))
+**- Tình trạng MQH:** Ế sấp mặt :)))
 
-### Wall Facebook của mình nè :3
+**- Sở thích:** Chơi game, Chọc nhây người khác :))
+
 <p align="">
  
  <p align="right">
-  <img src="https://imgur.com/F13Vybu.jpg" width=250>
+  <img src="https://imgur.com/tCHE7gW.jpg" width=250>
   <br><br>
   <samp> 
 
-Đang bận r nào rảnh ghi tiếp :))
+### Hướng dẫn chạy bot trên điện thoại bằng trang replit.com
+
+**Yêu cầu chuẩn bị:** 
+
++ Điện thoại dùng hệ điều hành Android 🐧
++ 1 acc Facebook phụ (clone) không dùng đến muốn gắn bot.
++ 1 tài khoản replit.
++ App hỗ trợ cài tiện ích lấy Appstate: Kiwi Browser.
++ App hỗ trợ nhập command: Ví dụ "Hacker's keyboard" (Không bắt buộc)
++ 1 tài khoản treo uptime bot 24/7.
+
+**1. Hướng dẫn tạo tài khoản replit:**
+- Mọi người hãy vào trang replit.com
