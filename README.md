@@ -1,16 +1,21 @@
-### Hi there 👋
+### Chào mọi người :3
 
-<!--
-**peminh25/peminh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tên:** Nguyễn Quang Minh
 
-Here are some ideas to get you started:
+**Sinh ngày:** 25 tháng 5 năm 2 lẻ 5 :))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Giới tính:** Nam
+
+**Tình trạng MQH:** Ế sấp mặt :)))
+
+**Sở thích:** Chơi game, Chọc nhây người khác :))
+
+### Wall Facebook của mình nè :3
+<p align="">
+ 
+ <p align="right">
+  <img src="https://imgur.com/F13Vybu.jpg" width=250>
+  <br><br>
+  <samp> 
+
+Đang bận r nào rảnh ghi tiếp :))
