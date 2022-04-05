@@ -35,8 +35,12 @@
 <p align="">
  
  <p align="right">
-  <img src="https://imgur.com/tCHE7gW.jpg" width=250>
+  <img src="https://imgur.com/1vNWlQT.jpeg" width=250>
   <br><br>
   <samp> 
 
+ <p align="right">
+  <img src="https://imgur.com/VuBEfOb.jpeg" width=250>
+  <br><br>
+  <samp> 
 ### Còn update thêm 🐧
