@@ -35,12 +35,20 @@
 <p align="">
  
  <p align="right">
-  <img src="https://imgur.com/1vNWlQT.jpeg" width=250>
+  <img src="https://imgur.com/MtmILYa.jpeg" width=250>
   <br><br>
   <samp> 
+
+ <p align="right">
+  <img src="https://imgur.com/zTLxU75.jpeg" width=250>
+  <br><br>
+  <samp> 
+
+- Ghi tên tài khoản/mật khẩu tùy ý mình hoặc đăng nhập bằng 1 trong 3 phương thức khác bên dưới chỗ mình khoanh tròn.
 
  <p align="right">
   <img src="https://imgur.com/VuBEfOb.jpeg" width=250>
   <br><br>
   <samp> 
+
 ### Còn update thêm 🐧
