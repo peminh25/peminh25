@@ -51,4 +51,13 @@
   <br><br>
   <samp> 
 
-### Còn update thêm 🐧
+### Cách cài tiện ích lấy Appstate Facebook và lấy Appstate.
+
+- Tải app Kiwi Browser trên CH Play **[tại đây](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.kiwibrowser.browser%26hl%3Dvi%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dkiwi%2Bbrowser%26pcampaignid%3DAPPU_1_UD9MYum-PMXhz7sPor2peA&ved=2ahUKEwjppoaJ__z2AhXF8HMBHaJeCg8Q5IQBegQIAxAF&usg=AOvVaw0os-3wQ47cJgmgE8mSzBDA)**
+
+ <p align="right">
+  <img src="https://imgur.com/7HZd0UK.jpeg" width=250>
+  <br><br>
+  <samp> 
+
+### Còn update thêm :))
