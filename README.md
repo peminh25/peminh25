@@ -19,11 +19,17 @@
   <br><br>
   <samp> 
 
+### Lưu ý quan trọng trước khi tập chạy bot:
+- Bạn nên sử dụng 1 acc Facebook không dùng đến để tránh trường hợp xấu nhất có thể xảy ra là mất acc nhé.
+- Khi bạn chạy bot đồng nghĩa với việc bạn chấp nhận nguy cơ bị Facebook quét và bị dính checkpoint (Bay acc) nhé. Mình xin phép không chịu trách nhiệm về vấn đề này ạ.
+- Bạn không nên vào acc Facebook đã gắn bot trong khi bot đang chạy để tránh bị Facebook quét acc nhé.
+- Để tránh hỏng file bot thì bạn không nên chỉnh sửa file bot khi chưa có kinh nghiệm nhé.
+
 ### Hướng dẫn chạy bot trên điện thoại bằng trang replit.com
 
 **Yêu cầu chuẩn bị:** 
 
-+ Điện thoại dùng hệ điều hành Android 🐧
++ Điện thoại dùng hệ điều hành Android 🐧 (Iphone chỉ ngắm trang replit được thôi chứ lấy appstate gắn bot bằng niềm tin :v)
 + 1 acc Facebook phụ (clone) không dùng đến muốn gắn bot.
 + 1 tài khoản replit.
 + App hỗ trợ cài tiện ích lấy Appstate: Kiwi Browser.
