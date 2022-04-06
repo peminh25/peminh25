@@ -60,4 +60,7 @@
   <br><br>
   <samp> 
 
+- Tải công cụ tiện ích lấy Appstate Facebook **[tại đây](https://github.com/c3cbot/c3c-fbstate/archive/refs/tags/1.2.zip)**
+
+Khoan tải vì mình chưa chỉ xong nhé :))
 ### Còn update thêm :))
